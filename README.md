@@ -35,15 +35,14 @@ Here are some ideas to get you started:
 </picture>
 
 
-
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=why-love-why&theme=light&hide_border=true" />
   <img src="https://streak-stats.demolab.com/?user=why-love-why&theme=dark&hide_border=true" />
 </picture>
 
-
 </div>
+
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
@@ -57,10 +56,3 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-
-<!-- profile-3d-contrib 3D 贡献图-->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="/profile-night-rainbow.svg" />
-</picture>
